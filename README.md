@@ -1,6 +1,6 @@
 # Links #
-* [Website](https://ceeoinnovations.github.io/hackathon-2021/)
-* [Data (Google Drive)](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing)
+* [Website](http://www.ceeoinnovations.org/a-in-steam/)
+* [Data (Google Drive)](https://docs.google.com/spreadsheets/d/1ztspUjxX8Ax6d1Y5FBZkKRj0TmN671HZBgv0gAAURW8/edit?usp=sharing)
 
 # How to build a Product Website Using Google Spreadsheets #
 Watch [Video Tuturial](https://youtu.be/VapCknrpzP8)
